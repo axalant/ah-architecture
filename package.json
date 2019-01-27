@@ -13,5 +13,8 @@
     "framework"
   ],
   "author": "Alex Humphries",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.2.1"
+  }
 }
