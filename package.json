@@ -1,0 +1,17 @@
+{
+  "name": "ah-framework",
+  "version": "1.0.0",
+  "description": "Sample UI architecture by Alex Humphries",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ui",
+    "architecture",
+    "gulp",
+    "framework"
+  ],
+  "author": "Alex Humphries",
+  "license": "ISC"
+}
